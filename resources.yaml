@@ -1,0 +1,9 @@
+- dir: .
+  url: git@github.com:AndreaCensi/env_14deepdyn.git
+
+- dir: docs/14deepdyn
+  url: git@github.com:AndreaCensi/14deepdyn.git
+
+- dir: docs/writingtools
+  url: git@github.com:AndreaCensi/writingtools.git
+  branch: env_14deepdyn
