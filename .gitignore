@@ -1,2 +1,9 @@
 docs/14deepdyn
 docs/writingtools
+src/contracts
+src/latex_deps
+src/latex_gen
+src/latex_symbol_list
+src/lyx_sections
+deploy
+environment.sh
